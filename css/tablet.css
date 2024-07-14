@@ -1,0 +1,21 @@
+/* 768px-481px */
+@media (max-width:481px) {
+    /* header */
+    header {
+        padding-inline: 8px;
+    }
+    /* section1 */
+    .section1 {
+        height: 320px;
+    }
+
+    /* section2 */
+    .section2{
+        height: 352px;
+    }
+    /* footer */
+    footer{
+        height: 619px;
+    }
+    
+}
